@@ -1,0 +1,13 @@
+{
+  "name": "node-ocr",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "author": "rahul",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "gm": "^1.21.1",
+    "node-tesseract": "^0.2.7"
+  }
+}
